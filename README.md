@@ -21,7 +21,7 @@ APP Receitas
 
 # Project Description
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. [Describe]
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. In this project I made an app with recipes to make and follow the same by filters or just see your favorites. I learned a lot about navigating between screens and how to use a database along with the application
 
 # 📁 Access the Project
 
@@ -46,6 +46,10 @@ This project was developed as part of my study on the flutter framework. I was c
 - `Feature 1`: icon image
 - `Feature 2`: split screen 
 - `Feature 3`: compatible for both devices IOS and Android
+- `Feature 4`: use a local database
+- `Feature 5`: filter the recipes
+- `Feature 6`: favorite your important recipes
+- `Feature 7`: create a new recipe
 
 # ▶ Run the Project
 
