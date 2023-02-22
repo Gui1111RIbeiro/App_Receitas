@@ -2,7 +2,7 @@ APP Receitas
 ==========
 ## A Flutter Project
 
-![](https://help.apple.com/assets/61E87C373FEFE261382782AC/61E87C383FEFE261382782B3/pt_BR/f19c7e914f0adb59c0833d00d09f1ea7.png)
+![](https://macmagazine.com.br/wp-content/uploads/2011/10/26-almoco_icon.png)
 
 # Index
 
@@ -21,7 +21,7 @@ APP Receitas
 
 # Project Description
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project was my first so I didn't create much functionality for it, it's just a simple app to get started with mobile development
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. [Describe]
 
 # 📁 Access the Project
 
@@ -46,8 +46,6 @@ This project was developed as part of my study on the flutter framework. I was c
 - `Feature 1`: icon image
 - `Feature 2`: split screen 
 - `Feature 3`: compatible for both devices IOS and Android
-- `Feature 4`: look of the calc is similar to the mac calculator
-- `Feature 5`: bottons to execute the math operations
 
 # ▶ Run the Project
 
