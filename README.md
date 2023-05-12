@@ -1,4 +1,4 @@
-APP Receitas
+APP Recipes
 ==========
 ## A Flutter Project
 
