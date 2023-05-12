@@ -1,71 +1,70 @@
-APP Recipes
-==========
+# APP Recipes
 ## A Flutter Project
 
 ![](https://macmagazine.com.br/wp-content/uploads/2011/10/26-almoco_icon.png)
 
-# Index
+# Índice
 
-* [Index](#index)
-* [Project Status](#project-status)
-* [Project Description](#project-description)
-* [Access the Project](#-access-the-project)
-* [Requirements](#-requirements)
-* [Project Features](#-project-features)
-* [Run the Project](#-run-the-project)
-* [Authors](#-authors)
+* [Índice](#índice)
+* [Estado do Projeto](#estado-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
+* [Requisitos](#-requisitos)
+* [Recursos do Projeto](#-recursos-do-projeto)
+* [Executar o Projeto](#-executar-o-projeto)
+* [Autores](#-autores)
 
-# Project Status
+# Estado do Projeto
 
-![](https://img.shields.io/badge/state-success-brightgreen/github/deployments/:user/:repo/:environment)
+![Badge Success](https://img.shields.io/badge/Status-Sucesso-brightgreen?style=for-the-badge)
 
-# Project Description
+# Descrição do Projeto
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. In this project I made an app with recipes to make and follow the same by filters or just see your favorites. I learned a lot about navigating between screens and how to use a database along with the application
+Este projeto foi desenvolvido como parte dos meus estudos sobre o framework Flutter. Eu estava curioso sobre como desenvolver um aplicativo móvel, então comecei a estudar e desenvolver muitos aplicativos para melhorar. Neste projeto, criei um aplicativo com receitas para fazer e seguir com filtros ou apenas ver suas favoritas. Aprendi muito sobre como navegar entre as telas e como usar um banco de dados juntamente com o aplicativo.
 
-# 📁 Access the Project
+# 📁 Acesso ao Projeto
 
-**Is found in Github: "https://github.com/GuiQueirozRibeiro/App_Receitas"**
+**Está disponível no Github: "https://github.com/GuiQueirozRibeiro/App_Receitas"**
 
-# 📝 Requirements
+# 📝 Requisitos
 
-- ## Install the DartSDK in your machine
+- ## Instalar o DartSDK na sua máquina
 
 **https://dart.dev/get-dart**
 
-- ## Install the FlutterSDK in your machine
+- ## Instalar o FlutterSDK na sua máquina
 
 **https://docs.flutter.dev/get-started/install**
  
-- ## Install and configure AndroidStudio in your machine
+- ## Instalar e configurar o AndroidStudio na sua máquina
 
 **https://developer.android.com/studio**
 
-# 🔨 Project Features
+# 🔨 Recursos do Projeto
 
-- `Feature 1`: icon image
-- `Feature 2`: split screen
-- `Feature 3`: compatible for both devices IOS and Android
-- `Feature 4`: use a local database
-- `Feature 5`: filter the recipes
-- `Feature 6`: favorite your important recipes
-- `Feature 7`: create a new recipe
+- `Recurso 1`: imagem do ícone
+- `Recurso 2`: tela dividida
+- `Recurso 3`: compatível com dispositivos IOS e Android
+- `Recurso 4`: uso de um banco de dados local
+- `Recurso 5`: filtrar as receitas
+- `Recurso 6`: favoritar suas receitas importantes
+- `Recurso 7`: criar uma nova receita
 
-# ▶ Run the Project
+# ▶ Executar o Projeto
 
-- `To execute the programm, use:`
+- `Para executar o programa, use:`
 
 ```console
 flutter run
 ```
 
-# 👨‍💻 Authors
+# 👨‍💻 Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/Gui1111RIbeiro)
+| [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/GuiQueirozRibeiro)
 | :---: |
 
-### End
+### Fim
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference
+Para obter ajuda para começar a desenvolver com o Flutter, consulte a
+[documentação online](https://docs.flutter.dev/), que oferece tutoriais,
+exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
