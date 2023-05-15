@@ -44,7 +44,7 @@ Este projeto foi desenvolvido como parte dos meus estudos sobre o framework Flut
 
 - `Recurso 1`: imagem do ícone
 - `Recurso 2`: tela dividida
-- `Recurso 3`: compatível com dispositivos IOS e Android
+- `Recurso 3`: compatível com ambos dispositivos IOS e Android
 - `Recurso 4`: uso de um banco de dados local
 - `Recurso 5`: filtrar as receitas
 - `Recurso 6`: favoritar suas receitas importantes
